@@ -1,8 +1,10 @@
-# 北航机电一体化实验课程
+<p align="right">
+  <img src="./assets/北航校徽.png" alt="北航校徽" width="180" />
+</p>
 
-<img src="./assets/北航校徽.png" alt="北航校徽" width="200" align="center" />
+<h1 align="center">北航机电一体化实验课程</h1>
 
- 	（希望大家可以点一下右上角的Star⭐（doge））
+<p align="center">（希望大家可以点一下右上角的Star⭐）</p>
 
 ## 简介
 
