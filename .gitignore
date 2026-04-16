@@ -12,7 +12,8 @@
 *.log.*
 
 # User-specific dir
-
+.planning/
+AGENTS.md
 
 # User-specific AD history dir
 Hardware/Tutorial\ Board/History/
